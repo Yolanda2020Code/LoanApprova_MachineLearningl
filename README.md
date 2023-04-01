@@ -1,4 +1,4 @@
-# LoanApprova_MachineLearning 
+# LoanApproval_MachineLearning 
 Loan Approval Prediction
 This is a machine learning project that predicts the likelihood of loan approval for customers based on various factors. The model is trained on a dataset of customer information and loan approvals, and uses a logistic regression algorithm to make predictions.
 
